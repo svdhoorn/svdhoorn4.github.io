@@ -1,7 +1,7 @@
 {
-  "name": "jekflix-template",
-  "version": "2.0.1",
-  "description": "A Jekyll theme inspired by Netflix",
+  "name": "svdhoorn",
+  "version": "",
+  "description": "Maps & Dataviz",
   "main": "gulpfile.js",
   "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
   "repository": {
