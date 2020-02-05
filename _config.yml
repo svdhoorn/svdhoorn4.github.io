@@ -3,28 +3,25 @@ name: svdhoorn
 title: svdhoorn | Maps & Dataviz
 description: Maps & Dataviz
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - map
+  - data
+email:
+disqus_username:
 show_hero: false
 
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
 linkedin_username: linkedin_username
-medium_username: medium_username
+#medium_username: medium_username
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+#instagram_username: instagram_username
 
 
 # Theme Settings
-themeColor: "#ff0a16"
+themeColor: "#cccc00"
 primaryDark: "#141414"
 accentDark: "#ffffff"
 lightGray: "#f2f2f2"
@@ -41,7 +38,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+# google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 
 
